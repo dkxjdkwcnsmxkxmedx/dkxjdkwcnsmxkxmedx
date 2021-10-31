@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @dkxjdkwcnsmxkxmedx
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+dkxjdkwcnsmxkxmedx/dkxjdkwcnsmxkxmedx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+git clone https://github.com/muhammadfathul/VIRTEX
+dkxjdkwcnsmxkxmedxcd VIRTEXhello-worldgit clone https://github.com/muhammadfathul/VIRTEX
+gem install lolcatcd VIRTEXttps://github.com':pkg install rubyREADME.mdgit clone https://github.com/muhammadfathul/VIRTEX
